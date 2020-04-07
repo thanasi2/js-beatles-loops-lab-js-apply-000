@@ -14,7 +14,7 @@ function theBeatlesPlay() {
 function johnLennonFacts() {
   const facts = [
   "While on tour, he enjoyed playing Monopoly",
-  "He was never a vegetarian"
+  "Harmonica was the first instrument Lennon learned to play"
   ];
   var factsExclaim = [];
   var x = 0;
