@@ -24,10 +24,9 @@ function johnLennonFacts() {
   }
   return factsExclaim;
 }
-
-function iLoveTheBeatles() {
+var x;
+function iLoveTheBeatles(x) {
   var iLove = [];
-  var x ;
   do {
     iLove.push("I love the Beatles!");
     x++;
