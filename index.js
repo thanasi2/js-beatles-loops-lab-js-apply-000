@@ -13,7 +13,7 @@ function theBeatlesPlay() {
 
 function johnLennonFacts() {
   const facts = [
-  "He was the last Beatle to learn to drive",
+  "While on tour, he enjoyed playing Monopoly",
   "He was never a vegetarian"
   ];
   var factsExclaim = [];
